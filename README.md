@@ -1,2 +1,2 @@
 # Azure-JSON-Scripts
-All my JSON stuff for Azure
+This my Github repository for JSON stuff that results from my daily work as IT-Architect at COMPAREX AG
