@@ -1,0 +1,1 @@
+This Script deploys a virtual machine sclae set with 1 vm from an own uploaded image (vhd). The scale set scales at 10 % CPU average utilization. 
